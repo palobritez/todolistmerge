@@ -59,7 +59,7 @@ function App() {
          
        </div>
      </Router>
-     <SearchPeople/>
+     <div>YO QUIERO UN ERROR</div>
     </div>
 
   );
